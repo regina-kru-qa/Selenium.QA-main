@@ -1,8 +1,0 @@
-[
-  "tests/test_first.py::test_product_view_sku",
-  "tests/test_first.py::test_smoke",
-  "tests/test_shop.py::test_count_of_all_products",
-  "tests/test_shop.py::test_products_group",
-  "tests/test_shop.py::test_right_way",
-  "tests/test_shop.py::test_top_menu"
-]
